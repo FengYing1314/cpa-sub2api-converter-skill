@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPTTools Token Converter"
+  short_description: "Convert and validate token JSON formats"
+  default_prompt: "Use $gpttools-token-converter to convert this CPA JSON to sub2api without exposing token values in chat."

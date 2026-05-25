@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+node_modules/
+*.log
+*.tmp
+*.secret.json
+*.secret.jsonl
+*.token.json
+*.tokens.json
+output/
+dist/
+coverage/
